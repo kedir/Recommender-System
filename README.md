@@ -45,5 +45,5 @@ You should read the README file in 'm1-1m' file folder for further explanation o
 
 ## Implementation
 
-read more about Autoencoder here [guide](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798) 
+read more about Autoencoder here [guide](https://www.udemy.com/deeplearning) 
 
